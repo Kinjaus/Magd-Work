@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Magd Projects
+## Lab 1
+Lab one(1) was learning basic shapes and lines to start learning basic coding.
 
-You can use the [editor on GitHub](https://github.com/Kinjaus/Magd-Work/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+-[js file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%201/p5.js)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-[html file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%201/index.html)
 
-### Markdown
+## Lab 2
+Lab two(2) was leaning how to use color and lines to give life to the code.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-[js file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%202/p5.js)
 
-```markdown
-Syntax highlighted code block
+-[html file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%202/index.html)
 
-# Header 1
-## Header 2
-### Header 3
+## Lab 3
+Lab three(3) was using math in our programs
 
-- Bulleted
-- List
+-[js file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%203/p5.js)
 
-1. Numbered
-2. List
+-[html file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%203/index.html)
 
-**Bold** and _Italic_ and `Code` text
+## Lab 4
+Lab four(4) was about learning new functions with mouse and keyboard
 
-[Link](url) and ![Image](src)
-```
+-[js file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%204/p5.js)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-[html file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%204/index.html)
 
-### Jekyll Themes
+## Lab 5
+Lab five(5) was about creating clickable buttons
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kinjaus/Magd-Work/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-[js file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%205/p5.js)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-[html file](https://github.com/Kinjaus/Magd-Work/blob/gh-pages/MagD%20folder/Lab%205/index.html)
